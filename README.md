@@ -6,15 +6,15 @@ Este proyecto es una aplicación en Python con una interfaz gráfica construida 
 
 ### Características
 
-Selección de una imagen desde el sistema de archivos.
+-Selección de una imagen desde el sistema de archivos.
 
-Elección del formato de salida (JPG, PNG, GIF, BMP, TIFF, WEBP).
+-Elección del formato de salida (JPG, PNG, GIF, BMP, TIFF, WEBP).
 
-Selección opcional de una carpeta de destino.
+-Selección opcional de una carpeta de destino.
 
-Conversión de la imagen y guardado en la carpeta seleccionada.
+-Conversión de la imagen y guardado en la carpeta seleccionada.
 
-Interfaz amigable con ttk.Combobox y filedialog.
+-Interfaz amigable con ttk.Combobox y filedialog.
 
 ### Requisitos
 
@@ -23,7 +23,7 @@ Interfaz amigable con ttk.Combobox y filedialog.
 ```bash
 pip install pillow
 ```
-##Instalación y Uso
+### Instalación y Uso
 
 Clona el repositorio:
 ```bash
